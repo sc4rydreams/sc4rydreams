@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sc4rydreams
+- 👋 Hi, I’m sc4rydreams
 - 👀 I’m interested in horses, playing games, drawing 
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on a swem addon
