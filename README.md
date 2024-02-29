@@ -1,5 +1,5 @@
 - 👋 Hi, I’m sc4rydreams
-- 👀 I’m interested in horses, playing games, drawing 
+- 👀 I’m interested in horses, playing games, drawing and graphic design
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on a swem addon
 - 📫 How to reach me ...
