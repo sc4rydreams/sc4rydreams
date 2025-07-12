@@ -2,7 +2,7 @@
 - 👀 I’m interested in horses, playing games, drawing and graphic design
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on a swem addon
-- 📫 How to reach me ...
+- 📫 Discord: maksiu_jest_hot
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: im a horse trainer
 
